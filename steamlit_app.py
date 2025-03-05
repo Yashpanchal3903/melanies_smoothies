@@ -6,6 +6,7 @@ from snowflake.snowpark.functions import col, when_matched
 
 st.title("🥤 Customize Your Smoothie! 🥤")
 
+
 st.write(
     f"""Choose the fruits you want in your custom  Smoothie!: """)
 
